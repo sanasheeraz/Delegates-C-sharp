@@ -1,0 +1,15 @@
+c:\users\sanasheeraz\documents\visual studio 2013\Projects\delegates1\delegates1\bin\Debug\delegates1.exe.config
+c:\users\sanasheeraz\documents\visual studio 2013\Projects\delegates1\delegates1\obj\Debug\delegates1.csprojResolveAssemblyReference.cache
+c:\users\sanasheeraz\documents\visual studio 2013\Projects\delegates1\delegates1\bin\Debug\delegates1.exe
+c:\users\sanasheeraz\documents\visual studio 2013\Projects\delegates1\delegates1\bin\Debug\delegates1.pdb
+c:\users\sanasheeraz\documents\visual studio 2013\Projects\delegates1\delegates1\obj\Debug\delegates1.exe
+c:\users\sanasheeraz\documents\visual studio 2013\Projects\delegates1\delegates1\obj\Debug\delegates1.pdb
+C:\Users\sana\Documents\Visual Studio 2013\Projects\C#\delegates1\delegates1\bin\Debug\delegates1.exe.config
+C:\Users\sana\Documents\Visual Studio 2013\Projects\C#\delegates1\delegates1\obj\Debug\delegates1.exe
+C:\Users\sana\Documents\Visual Studio 2013\Projects\C#\delegates1\delegates1\obj\Debug\delegates1.pdb
+C:\Users\sana\Documents\Visual Studio 2013\Projects\C#\delegates1\delegates1\bin\Debug\delegates1.exe
+C:\Users\sana\Documents\Visual Studio 2013\Projects\C#\delegates1\delegates1\bin\Debug\delegates1.pdb
+C:\Users\sana\Documents\Visual Studio 2013\Projects\C#\delegates1\delegates1\obj\Debug\delegates1.csprojResolveAssemblyReference.cache
+C:\Users\sana\Documents\Visual Studio 2013\Projects\C#\Delegates\delegates1\delegates1\bin\Debug\delegates1.exe.config
+C:\Users\sana\Documents\Visual Studio 2013\Projects\C#\Delegates\delegates1\delegates1\obj\Debug\delegates1.exe
+C:\Users\sana\Documents\Visual Studio 2013\Projects\C#\Delegates\delegates1\delegates1\obj\Debug\delegates1.pdb
